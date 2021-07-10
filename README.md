@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Praxition
+- 👋 Hi, I’m @MattHandzel
 - 👀 I’m interested in: AI (Deep learning and Reinforcment learning)
 - 🌱 I’m currently learning: AI, C++ and Java
 - 💞️ I’m looking to collaborate on: Anything, as long as if it is cool 😎
